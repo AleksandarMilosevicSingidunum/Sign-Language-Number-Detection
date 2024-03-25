@@ -68,9 +68,3 @@ You can find detailed results, including accuracy, loss, and confusion matrix, i
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Thanks to [Aleksandar Milosevic](https://github.com/aleksandar) for the initial project idea and implementation.
-```
-
-You can copy this content and save it as "README.md" in your GitHub repository. Make sure to replace placeholders like `your-username` with your actual GitHub username and update the content as needed.
