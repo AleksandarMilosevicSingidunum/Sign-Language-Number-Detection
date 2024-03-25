@@ -1,5 +1,3 @@
-Certainly! Here's the README.md file content based on the template provided:
-
 ```markdown
 # Sign Language Model Training for Numbers
 
