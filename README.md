@@ -37,17 +37,6 @@ git clone https://github.com/your-username/sign-language-model.git
 cd sign-language-model
 ```
 
-3. Train a model:
-
-```
-python train_model.py
-```
-
-4. Predict using a trained model:
-
-```
-python predict.py
-```
 
 ## Models
 
