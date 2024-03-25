@@ -1,4 +1,3 @@
-```markdown
 # Sign Language Model Training for Numbers
 
 This project aims to recognize digits in sign language using deep learning models.
